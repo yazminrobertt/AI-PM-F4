@@ -12,7 +12,7 @@
 | 1.1 | Requirement Gathering | Requirement document | Team | 6/10 | 8/10 |
 | 1.2 | Data Collection | Collected dataset | Aireen | 9/10 | 13/10 |
 | 2.1 | Model Design | Model architecture design | Team | 14/10 | 17/10 |
-| 2.2 | Model Training | Trained model | Team | Yazmin | 23/10 |
+| 2.2 | Model Training | Trained model | Yazmin | 18/10 | 23/10 |
 | 3.1 | Model Evaluation | Evaluation report | Adriana | 24/10 | 26/10 |
 | 3.2 | Dashboard Development | Dashboard prototype | Team | 27/10 | 30/10 |
 | 4.1 | Testing & Validation | Validation results | Liyana | 31/10 | 2/11 |
