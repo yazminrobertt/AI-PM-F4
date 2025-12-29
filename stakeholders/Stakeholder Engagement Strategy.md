@@ -8,7 +8,8 @@
 | Patients | Low-High |
 | Healthcare IT Administration |Medium-Medium | 
 
-Power-Interest and how to handle
+##Power-Interest and how to handle
+
 High power - High interest
 Manage closely, Involve in key decisions, Provide frequent, detailed updates, Seek feedback and approval at milestones
 
@@ -19,4 +20,5 @@ Low power - High interest
 Keep informed and appropriately involved, Use regular updates and scheduled meetings,  Encourage feedback and suggestions, Acknowledge contributions to maintain motivation
 
 Medium power - Medium interest
+
 Monitor and engage as needed, Provide periodic updates and summaries, Involve them in discussions related to their expertise, Maintain a good relationship to increase future support
