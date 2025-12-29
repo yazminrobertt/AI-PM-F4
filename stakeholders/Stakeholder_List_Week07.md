@@ -1,22 +1,7 @@
-**| Stakeholder | Role | Interest (High/Med/Low) | Influence (High/Med/Low) | Key Expectations |**
-
-**|------------|------|------------------------|--------------------------|------------------|**
-
-| Radiologists | Interpret brain MRI scans and validate model predictions | High | High | High classification accuracy and clear visual outputs |
-
-| Neurologists / Oncologists | Use results to support diagnosis and treatment planning | High | High | Reliable tumour classification |
-
-| Hospital Management | Decide on adoption and deployment of the system | Medium | High | Cost-effective solution and easy integration |
-
-| Patients | Individuals undergoing brain tumour diagnosis | Medium | Medium | Accurate results and data privacy |
-
-| Healthcare IT Administrators | Maintain system infrastructure and data security | Medium | Medium | System stability and data protection |
-
-
-
-
-
-
-
-
-
+| **Stakeholder** | **Role** | **Interest Level** | **Influence Level** | **Key Expectations** |
+|-----------------|----------|--------------------|---------------------|----------------------|
+| Radiologists | Interpret brain MRI scans and validate model predictions | High | High | High classification accuracy and clear, interpretable visual outputs |
+| Neurologists / Oncologists | Use system outputs to support diagnosis and treatment planning | High | High | Reliable and clinically meaningful tumour classification |
+| Hospital Management | Make decisions on system adoption, deployment, and funding | Medium | High | Cost-effective solution with smooth integration into existing workflows |
+| Patients | Individuals undergoing brain tumour diagnosis | Medium | Medium | Accurate results, data privacy, and ethical handling of medical data |
+| Healthcare IT Administrators | Manage system infrastructure, maintenance, and data security | Medium | Medium | System stability, cybersecurity, and compliance with data protection standards |
