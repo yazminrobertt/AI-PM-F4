@@ -1,4 +1,4 @@
-| **WBS ID** | **Task**                     | **Planned Completion (%)** | **Actual Completion (%)** |
+| **WBS ID** | **Task**             | **Planned Completion (%)** | **Actual Completion (%)** |
 
 |--------|--------------------------|----------------------|---------------------|
 
@@ -17,6 +17,7 @@
 | 4.1    | Testing \& Validation      | 0%                   | 0%                  |
 
 | 4.2    | Report \& Presentation     | 0%                   | 0%                  |
+
 
 
 
