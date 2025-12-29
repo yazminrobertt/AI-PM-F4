@@ -7,7 +7,8 @@
 | 3.1        | Model Evaluation          | 20%                       | 15%                      |
 | 3.2        | Dashboard Development     | 10%                       | 8%                       |
 | 4.1        | Testing & Validation      | 15%                        | 5%                       |
-| 4.2        | Report & Presentation     | 0%                        | 0%                       |
+| 4.2        | Report & Presentation     | 40%                        | 20%                       |
+
 
 
 
