@@ -1,3 +1,22 @@
+## Project Baseline Summary
+
+- **Planned Duration:**  
+  6 October 2024 – 8 November 2024 (approximately 5 weeks)
+
+- **Planned Budget:**  
+  RM 7,390
+
+- **Key Milestones:**  
+  - Requirement Gathering completed (8 October 2024)  
+  - Data Collection completed (13 October 2024)  
+  - Model Design completed (17 October 2024)  
+  - Model Training completed (23 October 2024)  
+  - Model Evaluation completed (26 October 2024)  
+  - Dashboard Development completed (30 October 2024)  
+  - Testing & Validation completed (2 November 2024)  
+  - Final Report & Presentation completed (8 November 2024)
+
+
 | **WBS ID** | **Task**                  | **Planned Completion (%)** | **Actual Completion (%)** |
 |------------|---------------------------|---------------------------|--------------------------|
 | 1.1        | Requirement Gathering     | 100%                      | 100%                     |
@@ -20,6 +39,7 @@ ANSWER: The possible causes would be the dependencies on earlier technical tasks
 
 3.	Are the issues related to scope, cost, resources, or risks identified earlier?
 ANSWER: The issues related to resource limitations and technical tasks like time constraints and unforeseen model challenges, rather than scope changes, though continued delays may indirectly impact project cost and schedule.
+
 
 
 
