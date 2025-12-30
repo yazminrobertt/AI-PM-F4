@@ -10,6 +10,17 @@
 | 4.2        | Report & Presentation     | 40%                        | 20%                       |
 
 
+## Performance Analysis
+
+1.	Which tasks show the largest deviation from plan?
+ANSWER: Tasks that show largest deviation from plan is Report & Presentation which is 20% deviation, Testing & Validation with 10% deviation and Model Design with also 10% deviation.
+
+2.	What are the possible causes?
+ANSWER: The possible causes would be the dependencies on earlier technical tasks. It also can be the increased complexity in model development.
+
+3.	Are the issues related to scope, cost, resources, or risks identified earlier?
+ANSWER: The issues related to resource limitations and technical tasks like time constraints and unforeseen model challenges, rather than scope changes, though continued delays may indirectly impact project cost and schedule.
+
 
 
 
