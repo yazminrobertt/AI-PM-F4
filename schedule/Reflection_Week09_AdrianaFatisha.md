@@ -1,0 +1,8 @@
+1. Why is identifying the critical path important for project managers?
+Identifying the critical path is essential because it highlights the specific sequence of tasks that determines the shortest possible duration for a project, allowing managers to prioritize resources and prevent any delays that would directly postpone the final completion date.
+
+2. Which activity posed the highest scheduling risk?
+Every activity in this project poses an equal scheduling risk because they form a single, linear critical path with zero "float" or slack. Since each task is a direct predecessor for the next, any delay in an early stage like "Requirement Gathering" or a late stage like "Testing & Validation" will cause an immediate, day-for-day delay to the final completion date. While all are critical, Activity D (Model Training) and Activity H (Report & Presentation) represent the highest individual risks because their longer 6-day durations provide more opportunity for unforeseen technical issues to disrupt the entire timeline.
+
+3. What trade-offs are involved when crashing a project?
+The primary trade-off in project crashing is the exchange of increased cost for decreased time, as managers spend more on overtime or additional labor to meet a deadline. This often results in a secondary trade-off where quality is sacrificed for speed, as compressed schedules increase the likelihood of errors, communication breakdowns, and team burnout. Additionally, crashing involves a resource trade-off, where accelerating one project may require pulling talent away from other internal initiatives, potentially solving one deadline crisis while inadvertently creating others across the organization.
